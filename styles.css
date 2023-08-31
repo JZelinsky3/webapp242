@@ -1,0 +1,44 @@
+/* Structure */
+body {
+    background-color:burlywood;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+}
+
+td {
+    background-color: green;
+    border:3px solid slateblue;
+}
+
+th {
+    background-color: blueviolet;
+    border:3px dashed lawngreen;
+}
+
+/* Typography */
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color:sienna;
+}
+
+h2{
+    color:lightsalmon;
+}
+
+p {
+    color:aliceblue;
+}
+
+table {
+    color:tomato;
+}
+
+a {
+    color:plum;
+}
